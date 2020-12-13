@@ -1,0 +1,11 @@
+ACTIVITY,PREDECESSORS,DURATION
+A,,3
+B,A,3
+C,A,5
+D,A,4
+E,"B, C, D",7
+F,"C, D",4
+G,D,6
+H,"E, F",2
+I,"F, G",3
+J,"H, I",6
