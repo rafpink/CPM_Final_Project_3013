@@ -56,7 +56,7 @@ cd Desktop\CPM
 
 ## How to use the program
 
-In order to use the program, you will need to input the activities, predecessors, and duration of each activity on a .CSV file. You will be prompted to input your file name of the .CSV you will be using as soon as you fun the test file. The file name we will use for the demo is called criticalpath_file.csv. If you happen to enter an incorrect file name, the program will then prompt you to input the correct name.
+In order to use the program, you will need to input the activities, predecessors, and duration of each activity on a .CSV file. You will be prompted to input your file name of the .CSV you will be using as soon as you fun the test file. The file name we will use for the demo is called criticalpath_file.csv, which is located in the "Input" folder. If you happen to enter an incorrect file name, the program will then prompt you to input the correct name.
 
 Output:
 ```
